@@ -1,0 +1,151 @@
+/*font-family: 'Playfair Display', serif;*/
+/*font-family: 'Ubuntu', sans-serif;*/
+/*font-family: 'Inconsolata', monospace;*/
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Playfair Display', serif;
+}
+.header{
+	padding: 30px 0;
+}
+.wrapper{
+	overflow: hidden;
+	width: 90%;
+	margin: 0 auto;
+	/*border: 1px solid black;*/
+}
+.logo{
+	width: 15%;
+	float: left;
+	/*border: 1px solid black;*/
+}
+.logo img{
+	width: 100%;
+}
+.nav{
+	width: 70%;
+	/*border: 1px solid black;*/
+	float: right;
+}
+.nav ul{
+	/*float: right;*/
+}
+.nav ul li{
+	float: right;
+	/*text-decoration: none;
+	font-size: 16px;
+	color: #626262;*/
+	list-style: none;
+	/*border: 1px solid black;*/
+}
+.nav ul li a{
+	padding: 0 80px;
+	/*float: right;*/
+	text-decoration: none;
+	font-size: 16px;
+	color: #626262;
+	text-transform: uppercase;
+	font-weight: 400;
+	/*list-style: none;*/
+}
+.nav ul li:first-child a{
+	padding-right: 0;
+}
+.nav ul li a:hover{
+	color: black;
+}
+.banner{}
+.banner img{
+	width: 100%;
+}
+.about1{
+	padding: 50px 0;
+}
+.wrapper1{
+	width: 80%;
+	margin: 0 auto;
+}
+h6{
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 14px;
+	font-weight: 300px;
+	color: #b4ad9e;
+	text-transform: uppercase;
+}
+h1{
+	font-family: 'Playfair Display', serif;
+	font-size: 30px;
+	font-weight: 400px;
+	color: #626262;
+}
+p{
+	font-family: 'Playfair Display', serif;
+	font-size: 14px;
+	font-weight: 400px;
+	color: #626262;
+	line-height: 2em;
+}
+h6{
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 14px;
+	font-weight: 300px;
+	color: #b4ad9e;
+	text-transform: uppercase;
+}
+.about2{
+	padding: 25px 0;
+	overflow: hidden;
+}
+.single{
+	width: 45%;
+	float: left;
+}
+.single img{
+	width: 100%;
+}
+.single2{
+	width: 45%;
+	float: right;
+}
+.single2 img{
+	width: 100%;
+}
+.about3{
+	padding: 25px 0;
+	overflow: hidden;
+}
+.newsletter{
+	background-color: #F0F0F0;
+	padding: 45px 0;
+	overflow: hidden;
+}
+.wrapper2{
+	width: 30%;
+	margin: 0 auto;
+}
+.wrapper2 h1{
+	width: 100%;
+}
+.about4{
+	padding: 70px 0;
+	overflow: hidden;
+}
+.wrapper3{
+	/*overflow: hidden;*/
+	width: 15%;
+	margin:0 auto;
+	font-size: 16px;
+	font-weight: 400;
+}
+.button1{
+	padding: 150px 0;
+}
+button{
+	width:165px;
+	height: 57px;
+	font-family: 'Playfair Display', serif;
+	background-color: white;
+	font-size: 20px;
+	font-weight: 400; 
+	}
